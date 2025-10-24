@@ -262,7 +262,6 @@ The histogram typically shows:
 
 ## References
 
-- **Tutorial**: [Practical Business Python - Monte Carlo](https://pbpython.com/monte-carlo.html)
 - **Monte Carlo Method**: [Wikipedia](https://en.wikipedia.org/wiki/Monte_Carlo_method)
 - **Pandas Documentation**: [pandas.pydata.org](https://pandas.pydata.org/)
 - **NumPy Random**: [numpy.org/doc/stable/reference/random](https://numpy.org/doc/stable/reference/random/)
