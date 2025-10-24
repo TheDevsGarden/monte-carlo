@@ -2,6 +2,8 @@
 
 A Python-based Monte Carlo simulation to predict sales commission expenses for a team of 500 sales representatives. This project demonstrates how to use probabilistic modeling to make better business decisions than simple averages would allow.
 
+<img width="1775" height="1132" alt="Screenshot 2025-10-24 at 10 45 10 AM" src="https://github.com/user-attachments/assets/91b85a63-51e3-4616-be19-684d20617abd" />
+
 ## Table of Contents
 
 - [Overview](#overview)
