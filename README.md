@@ -269,5 +269,4 @@ The histogram typically shows:
 ---
 
 **License**: MIT
-**Author**: Recreated and enhanced from pbpython.com tutorial
 **Last Updated**: October 2025
